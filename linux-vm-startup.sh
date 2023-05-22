@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo `date` > date.txt
+echo "`date`" > date.txt
